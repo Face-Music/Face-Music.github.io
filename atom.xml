@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://face-music.github.io/</id>
+    <title>Face-Music-Blog</title>
+    <updated>2022-07-22T05:50:05.710Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://face-music.github.io/"/>
+    <link rel="self" href="https://face-music.github.io/atom.xml"/>
+    <subtitle>Face-Music-Blog</subtitle>
+    <logo>https://face-music.github.io/images/avatar.png</logo>
+    <icon>https://face-music.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Face-Music-Blog</rights>
+</feed>
